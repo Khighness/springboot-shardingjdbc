@@ -2,6 +2,7 @@
 .idea/
 
 # Compiled class file
+/target/
 *.class
 
 # Log file
